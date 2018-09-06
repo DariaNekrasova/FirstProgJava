@@ -4,6 +4,6 @@ public class Main {
         System.out.println("One more row!");
         System.out.println("One more row 2!");
 
-        System.out.println("One more row 3!");
+        System.out.println("again in master");
     }
 }
