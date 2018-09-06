@@ -3,7 +3,8 @@ public class Main {
         System.out.println("Hello World!");
         System.out.println("One more row!");
         System.out.println("One more row 2!");
-
         System.out.println("TEXT in alter!");
+
+        System.out.println("5!");
     }
 }
