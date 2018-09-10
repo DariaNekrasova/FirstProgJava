@@ -1,6 +1,13 @@
 public  class WorkerRobot {
-    public static void doWork(){
+
+
+    public void doWork(){
         System.out.println("I'm worker and i work");
 
+    }
+
+    public int calcD(String input)
+    {
+        return -10;
     }
 }
